@@ -4,7 +4,4 @@ logs/
 venv/
 .venv/
 *.pkl
-<<<<<<< HEAD
-=======
 .env
->>>>>>> 108f257 (update)
